@@ -1,0 +1,70 @@
+.container{
+    height: 1500px;
+    width: 80%;
+    background-color:red;
+    margin: 0 auto;
+}
+.header{
+    height: 300px;
+    width: 100%;
+    background-color: aqua;
+}
+.nav{
+    height: 200px;
+    width: 100%;
+    background-color: blue;
+}
+.content{
+    height: 800px;
+    width: 100%;
+    background-color: yellow;
+}
+.footer{
+    height: 200px;
+    width: 100%;
+    background-color: violet;
+}
+.content-1{
+    height: 800px;
+    width: 33.3%;
+    background-color: black;
+    float: left;
+}
+.content-2{
+    height: 800px;
+    width: 33.3%;
+    background-color: chartreuse;
+    float: left;
+}
+.content-3{
+    height: 800px;
+    width: 33.3%;
+    background-color: gray;
+    float: left;
+}
+.content11{
+    height: 400px;
+    width: 100%;
+    background-color: aquamarine;
+    float: left;
+}
+.content12{
+    height: 400px;
+    width: 100%;
+    background-color: red;
+    float: left;
+
+}
+.content31{
+     height: 400px;
+    width: 100%;
+    background-color: brown;
+    float: left;
+}
+.content32{
+     height: 400px;
+    width: 100%;
+    background-color: green;
+    float: left;
+}
+
