@@ -1,0 +1,17 @@
+img{
+    height: 400px;
+    width: 400px;
+}
+
+.radient-1{
+    background-color: violet;
+    background-image: radient(to bottom, violet, black);
+}
+.radient-2{
+   background-color: aqua;
+    background-image: radient(to right, aqua, black);
+}
+.radient-3{
+    background-color: violet;
+    background-image: radient(to left, violet, green);
+}

@@ -1,0 +1,106 @@
+.row{
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid green;
+    display: flex;
+    flex-direction: row;
+    flex-direction: column;
+    height: auto;
+    column: reverse;
+}
+.box-1{
+    color: aliceblue;
+    background-color: blue;
+    padding: 20px;
+}
+.box-2{
+    color: black;
+    background-color: aqua;
+    padding: 20px;
+}
+.box-3{
+    color: white;
+    background-color: black;
+    padding: 35px;
+}
+.box-4{
+    color: yellow;
+    background-color: gray;
+    padding: 20px;
+}
+.box-5{
+    color: black;
+    background-color: red;
+    padding: 30px;
+}
+p{
+    margin: 10px;
+}
+.box-6{
+    color: black;
+    background-color: gray;
+    padding: 30px;
+}
+.box-7{
+    color: black;
+    background-color: green;
+    padding: 30px;
+}
+.box-8{
+    color: bisque;
+    background-color: violet;
+    padding: 20px;
+}
+.box-9{
+    color: bisque;
+    background-color: black;
+    padding: 20px;
+}
+.box-10{
+    color: bisque;
+    background-color: red;
+    padding: 20px;
+}
+.box-11{
+    color: bisque;
+    background-color: black;
+    padding: 20px;
+}
+.box-12{
+    color: bisque;
+    background-color: yellowgreen;
+    padding: 20px;
+}
+
+button{
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 10px;
+}
+.container{
+    /* background-color: blue; */
+     width: 60%;
+    margin: 0 auto;
+    border: 2px solid green;
+    display: flex;
+}
+.b1{
+    background-color: red;
+    margin: 10px;
+    padding: 10px;
+}
+.b2{
+    background-color: gray;
+    padding: 10px;
+    margin: 10px;
+}
+.b3{
+    background-color: green;
+    padding: 10px;
+      margin: 10px;
+}
+.b4{
+    background-color: whitesmoke;
+    padding: 10px;
+      margin: 10px;
+}

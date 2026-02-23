@@ -1,0 +1,27 @@
+img{
+    height: 400px;
+    width: 400px;
+
+
+}
+h1{
+    background-color: bisque;
+}
+p{
+    background-color: gray;
+}
+.gradient-1{
+    background-color: violet;
+    background-image: linear-gradient(to left, violet, green);
+}
+.gradient-2{
+   background-color: aqua;
+    background-image: linear-gradient(to right, aqua, black);
+}
+.gradient-3{
+    background-color: violet;
+    background-image: linear-gradient(to left, violet, green);
+}
+.head-2{
+    background-color: skyblue;
+}
